@@ -1,6 +1,6 @@
 # flutter_animated_glb
 
-A new Flutter project.
+A new Flutter project for animated glb.
 
 ## Getting Started
 
